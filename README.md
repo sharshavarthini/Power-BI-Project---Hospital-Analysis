@@ -43,7 +43,8 @@ It visualizes **patient flow, wait times, satisfaction scores, demographic patte
 ---
 
 ## 📷 Dashboard Preview  
-<img width="1239" height="745" alt="image" src="https://github.com/user-attachments/assets/f7334886-c980-4c7e-99e5-8b5282306e2b" />
+<img width="1263" height="767" alt="image" src="https://github.com/user-attachments/assets/98dc82f7-0c8a-4eff-a6fa-4e756e7521ff" />
+
 
 ---
 
