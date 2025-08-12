@@ -43,7 +43,7 @@ It visualizes **patient flow, wait times, satisfaction scores, demographic patte
 ---
 
 ## 📷 Dashboard Preview  
-![Hospital Dashboard](Hospital_Dashboard_Vertical.png)
+<img width="1239" height="745" alt="image" src="https://github.com/user-attachments/assets/f7334886-c980-4c7e-99e5-8b5282306e2b" />
 
 ---
 
